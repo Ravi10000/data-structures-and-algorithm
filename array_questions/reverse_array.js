@@ -7,4 +7,4 @@ function reverseArray(arr = []) {
     return arr;
 }
 
-console.log(reverseArray([11, 22, 33, 44, 55, 66, 77, 88, 99, 0]))
+console.log(reverseArray([11, 22, 33, 44, 55, 66, 77, 88, 99, 0]));
